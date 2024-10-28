@@ -2,9 +2,6 @@ package DAO;
 
 import Model.Message;
 import Util.ConnectionUtil;
-
-import static org.mockito.ArgumentMatchers.refEq;
-
 import java.sql.*;
 import java.sql.SQLException;
 import java.util.List;
